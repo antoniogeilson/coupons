@@ -1,4 +1,4 @@
-# _Coupons_(BDD)_
+# _Coupons_(BDD)
 
 ___Project created using C# + Selenium + BDD___
 
